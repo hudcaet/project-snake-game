@@ -1,1 +1,1 @@
-# projeto-curso-git
+# projeto-snake-game
